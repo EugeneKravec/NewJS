@@ -112,4 +112,5 @@
 //  */
 // const value = prompt('Please enter a number!');
 // console.log(typeof value); // 'string'
-// console.log(value); // '5' .
+// console.log(value); // 
+
